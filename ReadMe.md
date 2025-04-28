@@ -83,7 +83,7 @@ Tools used:
 ![AddNewDiary](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewDiary.png)
 
 **3. TodoListScreen**                                         
-![TodoListScreen](https://github.com/6631503049/Final_DiaryApp/blob/main/Screenshots/TodoListScreen.png)
+
 
 **4. AddNewTodo**                                         
 ![AddNewTask](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewTask.png)
