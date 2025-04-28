@@ -1,11 +1,11 @@
 # Diary App 
 # Take-home Assignment
 
-Full Name: Alisa Pansomkid
-Student ID: 6631503049
-Framework Used: React Native
-GitHub Repository: https://github.com/6631503049/Final_DiaryApp
-APK/IPA: Not deployed.(App only in Debug mode)
+- Full Name: Alisa Pansomkid
+- Student ID: 6631503049
+- Framework Used: React Native
+- GitHub Repository: https://github.com/6631503049/Final_DiaryApp
+- APK/IPA: Not deployed.(App only in Debug mode)
 
 --- 
 
@@ -13,25 +13,25 @@ APK/IPA: Not deployed.(App only in Debug mode)
 
 1.1 User Personas
 
-Persona 1: 
+- Persona 1: 
     Name: Pimpha
     Age: 22
     Career: Student
     Need: Want to schedule your own things to do that day.
 
-Persona 2:
+- Persona 2:
     Name: Nobita
     Age: 10 
     Career: Student
     Need: Want to write diary with Need encouragement to do homework.
 
-Persona 3: 
+- Persona 3: 
     Name: John doe
     Age: 30
     Career: Programmer
     Need: Want to write down what you learn each day.
 
-1.2 App Goals
+- 1.2 App Goals
 
     - For people who what to write diary for Tto release the emotions and feelings of that day and also want to schedule own task in one app.
 
@@ -45,6 +45,8 @@ Persona 3:
 
     3.QuoteScreen
         - user can read the quote and reset to new quote.
+
+    ![Mockup](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/Mockup.png)
 
 1.4 User Flow (Not complete)
 
@@ -75,19 +77,19 @@ Persona 3:
 
 2.2 App Screenshots
     1.DiaryScreen (HomeScreen)
-        
+    ![Diary Screenshot](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/DiaryScreen.png)
 
     2.AddNewDiary
-
+    ![AddNewDiary](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewDiary.png)
 
     3.TodoListScreen
-        
+    ![Todo List Screen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/TodoListScreen.png)
 
     4.AddNewTodo
-
+    ![Add New Task](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewTask.png)
 
     3.QuoteScreen
-        
+    ![Quote Screen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/QuoteScreen.png)
 
 ---
 
