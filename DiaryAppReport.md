@@ -76,19 +76,19 @@ Tools used:
 - Reset Quote
 
 2.2 App Screenshots
-**DiaryScreen (HomeScreen)**                                          
+**1. DiaryScreen (HomeScreen)**                                          
 ![Diary Screenshot](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/DiaryScreen.png)
 
-**AddNewDiary**                                         
+**2. AddNewDiary**                                         
 ![AddNewDiary](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewDiary.png)
 
-**TodoListScreen**                                         
+**3. TodoListScreen**                                         
 ![TodoListScreen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/TodoListScreen.png)
 
-**AddNewTodo**                                         
+**4. AddNewTodo**                                         
 ![AddNewTask](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewTask.png)
 
-**QuoteScreen**                                         
+**5. QuoteScreen**                                         
 ![QuoteScreen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/QuoteScreen.png)
    
 ---
