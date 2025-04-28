@@ -31,7 +31,7 @@
     Career: Programmer
     Need: Want to write down what you learn each day.
 
-- 1.2 App Goals
+1.2 App Goals
 
     - For people who what to write diary for Tto release the emotions and feelings of that day and also want to schedule own task in one app.
 
@@ -83,13 +83,13 @@
     ![AddNewDiary](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewDiary.png)
 
     3.TodoListScreen
-    ![Todo List Screen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/TodoListScreen.png)
+    ![TodoListScreen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/TodoListScreen.png)
 
     4.AddNewTodo
-    ![Add New Task](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewTask.png)
+    ![AddNewTask](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewTask.png)
 
     3.QuoteScreen
-    ![Quote Screen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/QuoteScreen.png)
+    ![QuoteScreen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/QuoteScreen.png)
 
 ---
 
