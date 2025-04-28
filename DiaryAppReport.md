@@ -76,21 +76,17 @@
     - Reset Quote
 
 2.2 App Screenshots
-    1.DiaryScreen (HomeScreen)
-![Diary Screenshot](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/DiaryScreen.png)
-
-    2.AddNewDiary
-![AddNewDiary](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewDiary.png)
-
-    3. TodoListScreen  
-![TodoListScreen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/TodoListScreen.png)
-
-    4. AddNewTodo
-![AddNewTask](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewTask.png)
-
-    5. QuoteScreen  
-![QuoteScreen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/QuoteScreen.png)
-
+1. DiaryScreen (HomeScreen)
+    ![Diary Screenshot](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/DiaryScreen.png)
+2. AddNewDiary
+    ![AddNewDiary](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewDiary.png)
+3. TodoListScreen
+    ![TodoListScreen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/TodoListScreen.png)
+4. AddNewTodo
+    ![AddNewTask](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/AddNewTask.png)
+5. QuoteScreen
+    ![QuoteScreen](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/QuoteScreen.png)
+   
 ---
 
 # 3. Deploymen
