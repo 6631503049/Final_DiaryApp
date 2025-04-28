@@ -49,7 +49,7 @@
 ![Mockup](https://raw.githubusercontent.com/6631503049/Final_DiaryApp/main/Screenshots/Mockup.png)
 
 
-1.4 User Flow (Not complete)
+1.4 User Flow
 
     Diary
     - Open app => Enter HomeScreen (DiaryScreen) => Add new Diary => Enter information => Save diary 
