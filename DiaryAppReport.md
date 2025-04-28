@@ -140,8 +140,3 @@ Result:
     - AI notice the code problem and suggest new way to write this function.
 
 ---
-
-
-
-
-    
